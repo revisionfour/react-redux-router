@@ -1,0 +1,44 @@
+form a {
+	margin-left: 5px;
+}
+
+#posts-top, #post-top{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#posts-top > div:first-child{
+	line-height: 38px;
+	font-weight: bold;
+
+	font-size: 22px;
+
+	text-indent: 20px;
+}
+
+#post-top > a:first-child{
+	line-height: 38px;
+	font-weight: bold;
+
+	font-size: 18px;
+
+	margin-left: 20px;
+}
+
+.post{
+	border: 1px solid #CCC;
+	padding: 20px;
+
+	border-radius: 6px;
+}
+
+.post h6, .post p{
+	margin-top: 20px;
+}
+
+#new-post-form h3{
+	margin-top: 10px;
+}
